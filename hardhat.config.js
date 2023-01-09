@@ -20,8 +20,8 @@ module.exports = {
     solidity: "0.8.17",
     networks: {
       goerli: {
-        url: "https://silent-quick-knowledge.ethereum-goerli.discover.quiknode.pro/ada5184074917c74bb9ee2cd4cadf9f586f8e29d/",
-        accounts: ['ad16e7d64397eb28d16d591fabefefe77c06e34b33dea52dfc13fcacb7631b1c'       ]
+        url: "_______",
+        accounts: ['_____'       ]
       },
     },
 };
