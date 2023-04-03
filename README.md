@@ -8,5 +8,5 @@ My project lets users experience the diversity of our world’s rich culture thr
 
 Here's an article for a step-by-step run-through of my front-end and back-end, how I leveraged libraries and frameworks, and a deeper dive into the basics of web3 development concepts: https://medium.com/@sheth.tanvi18/music-portal-web3-app-ethereum-smart-contract-18434bdb97a2
 
-Here's a demo of my application: https://youtu.be/jZU02FC4mrE
+Here's a demo of my application: https://youtu.be/jZU02FC4mrE (front-end and back-end)
 
